@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me: 9026846184
+- 📫 How to reach me: 9026846184, gitsubh@gmail.com
 - 😄 Pronouns: Subh
 - ⚡ Village : Amethi, up 
 
